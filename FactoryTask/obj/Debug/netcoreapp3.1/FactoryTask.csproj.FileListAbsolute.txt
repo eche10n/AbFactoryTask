@@ -1,0 +1,13 @@
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\bin\Debug\netcoreapp3.1\FactoryTask.exe
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\bin\Debug\netcoreapp3.1\FactoryTask.deps.json
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\bin\Debug\netcoreapp3.1\FactoryTask.runtimeconfig.json
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\bin\Debug\netcoreapp3.1\FactoryTask.runtimeconfig.dev.json
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\bin\Debug\netcoreapp3.1\FactoryTask.dll
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\bin\Debug\netcoreapp3.1\FactoryTask.pdb
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\obj\Debug\netcoreapp3.1\FactoryTask.csprojAssemblyReference.cache
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\obj\Debug\netcoreapp3.1\FactoryTask.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\obj\Debug\netcoreapp3.1\FactoryTask.AssemblyInfoInputs.cache
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\obj\Debug\netcoreapp3.1\FactoryTask.AssemblyInfo.cs
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\obj\Debug\netcoreapp3.1\FactoryTask.dll
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\obj\Debug\netcoreapp3.1\FactoryTask.pdb
+C:\Users\Workstation\source\repos\FactoryTask\FactoryTask\obj\Debug\netcoreapp3.1\FactoryTask.genruntimeconfig.cache
